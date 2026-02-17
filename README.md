@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm intCoco!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Passionate+Developer+%7C+Problem+Solver+%F0%9F%92%BB;Always+Learning+%7C+Always+Building+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Aspiring+Gameplay+Programmer+%F0%9F%8E%AE;Developer+%7C+Problem+Solver+%F0%9F%92%BB;Always+Learning+%7C+Always+Building+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
@@ -13,16 +13,20 @@
 ```javascript
 const intCoco = {
     location: "🌍 Earth",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
-    technologies: {
-        frontEnd: ["React", "Vue", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Django", "Express"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "AWS", "Git", "CI/CD"],
-        tools: ["VS Code", "Git", "Linux"]
+    careerGoal: "Gameplay Programmer 🎮",
+    code: ["C++", "C#", "Python", "JavaScript", "TypeScript"],
+    gameDevSkills: {
+        engines: ["Unity", "Unreal Engine"],
+        specialties: ["Game Mechanics", "Physics", "AI", "Player Controls"],
+        learning: ["Optimization", "Multiplayer Systems", "Procedural Generation"]
     },
-    currentFocus: "Building amazing projects and contributing to open source 🌟",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    technologies: {
+        general: ["React", "Node.js", "Git"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["VS Code", "Git", "Linux", "Blender"]
+    },
+    currentFocus: "Developing gameplay systems and learning game development best practices 🎮",
+    funFact: "I believe great gameplay can make any game memorable! 🕹️"
 };
 ```
 
@@ -32,26 +36,27 @@ const intCoco = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🎮 Game Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
