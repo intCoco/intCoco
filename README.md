@@ -22,7 +22,7 @@ const intCoco = {
     },
     technologies: {
         general: ["React", "Node.js", "Git"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL"],
         tools: ["VS Code", "Git", "Linux", "Blender"]
     },
     currentFocus: "Developing gameplay systems and learning game development best practices 🎮",
