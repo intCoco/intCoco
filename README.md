@@ -88,9 +88,17 @@ const intCoco = {
 
 <div align="center">
 
-<a href="https://github.com/intCoco/awesome-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=intCoco&repo=intCoco&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+<!-- Replace 'your-repo-name' with your actual repository name -->
+<!-- Example: repo=awesome-calculator, repo=weather-app, etc. -->
+<!-- Uncomment and customize the section below with your projects -->
+
+<!--
+<a href="https://github.com/intCoco/your-repo-name">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=intCoco&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
 </a>
+-->
+
+💡 *Pin your favorite repositories here! Update the `repo` parameter with your project names.*
 
 </div>
 
