@@ -10,25 +10,29 @@
 
 ## 🚀 About Me
 
-```javascript
-const intCoco = {
-    location: "🌍 Earth",
-    careerGoal: "Gameplay Programmer 🎮",
-    code: ["C++", "C#", "Python", "JavaScript", "TypeScript"],
-    gameDevSkills: {
-        engines: ["Unity", "Unreal Engine"],
-        specialties: ["Game Mechanics", "Physics", "AI", "Player Controls"],
-        learning: ["Optimization", "Multiplayer Systems", "Procedural Generation"]
-    },
-    technologies: {
-        general: ["React", "Node.js", "Git"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["VS Code", "Git", "Linux", "Blender"]
-    },
-    currentFocus: "Developing gameplay systems and learning game development best practices 🎮",
-    funFact: "I believe great gameplay can make any game memorable! 🕹️"
-};
-```
+🎮 **Aspiring Gameplay Programmer** passionate about creating engaging game experiences!
+
+### 💼 Career Goal
+Becoming a **Gameplay Programmer** to bring interactive worlds to life through code and creativity.
+
+### 💻 Programming Languages
+`C++` • `C#` • `Python` • `JavaScript` • `TypeScript`
+
+### 🎮 Game Development Skills
+- **Engines:** Unity, Unreal Engine
+- **Specialties:** Game Mechanics, Physics, AI, Player Controls
+- **Currently Learning:** Optimization, Multiplayer Systems, Procedural Generation
+
+### 🛠️ Technologies & Tools
+- **General:** React, Node.js, Git
+- **Databases:** MongoDB, MySQL
+- **Tools:** VS Code, Git, Linux, Blender
+
+### 🎯 Current Focus
+Developing gameplay systems and learning game development best practices 🎮
+
+### ⚡ Fun Fact
+I believe great gameplay can make any game memorable! 🕹️
 
 ---
 
